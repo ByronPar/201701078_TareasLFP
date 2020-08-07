@@ -4,6 +4,7 @@ Laboratorio Lenguajes Formales y de programación. Sección: A+
 
 
 
+
 Diferencia entre Lenguajes de programación imperativos y Lenguajes de programación declarativos
 
 - La programación declarativa describe el problema que se quiere solucionar, 
