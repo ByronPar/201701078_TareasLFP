@@ -25,7 +25,7 @@ _Que cosas necesitas para comenzar con git
 
 El Usuario debera configurar su entorno de git , tales como correo ,contraseña, nombre de usuario, etc.
 
-### Recomendación
+### Recomendación 📌
 
 Crear sus llaves publicas y privadas para el almacenamiento de sus repositorios.
 
