@@ -1,0 +1,26 @@
+[
+  {
+    "Cola": "Negra",
+    "Orejas": "Negro con blanco",
+    "Patas": "Blancas",
+    "Nariz": "Humeda"
+  },
+  {
+    "Cola": "Amarillo",
+    "Orejas": "Blancas",
+    "Patas": "Blancas",
+    "Nariz": "Chata"
+  },
+  {
+    "Cola": "Blanca",
+    "Orejas": "No Aplica",
+    "Patas": "Rojas",
+    "Nariz": "Estirada y Roja"
+  },
+  {
+    "Cola": "No Aplica",
+    "Orejas": "Cafes",
+    "Patas": "Cafes y con garras",
+    "Nariz": "Negra"
+  }
+]

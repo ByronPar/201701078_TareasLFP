@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<people>
+
+<persona>
+  <nombres>Byron Josué  </nombres>
+  <apellidos>Par Rancho    </apellidos>
+  <edad>20</edad>            
+  <ciudad>Guatemala</ciudad>  
+</persona>                      
+                                 
+<persona>                          
+  <nombres>Alan David   </nombres>
+  <apellidos>Garcia Perez  </apellidos>
+  <edad>21</edad>              
+  <ciudad>Guatemala</ciudad>  
+</persona>                      
+                                       
+<persona>                        
+  <nombres>Linda Karina </nombres>
+  <apellidos>Escobar Ramos </apellidos>
+  <edad>22</edad>            
+  <ciudad>Guatemala</ciudad>
+</persona>                    
+                                 
+<persona>                    
+  <nombres>Kathia Cerwin</nombres>
+  <apellidos>Saldoval Reyes</apellidos>
+  <edad>25</edad>             
+  <ciudad>Guatemala</ciudad>
+</persona>                        
+ 
+</people>
