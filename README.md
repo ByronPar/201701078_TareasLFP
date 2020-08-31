@@ -43,7 +43,7 @@ Se utiliza git como versionamiento de la aplicación en conjunto con su consola 
 _Apoyo para los estudiantes del curso Lenguajes Formales y de programación Sección: A+ _
 
 * **Byron Josué Par Rancho**  - [SPM Poeta - Byron Par](https://github.com/ByronPar)
-* **Javier Alberto Cabrera Puente** - *Auxiliar de Laboratorio*(https://github.com/cabreration) - Resolución de dudas
+* **Javier Alberto Cabrera Puente** - [Auxiliar de Laboratorio](https://github.com/cabreration) - Resolución de dudas
 
 ## Licencia 📄
 
